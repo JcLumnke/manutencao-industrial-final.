@@ -138,3 +138,232 @@
 2026-02-23 13:57:19,455 INFO Ollama response time: 72.446 seconds
 2026-02-23 13:57:19,455 INFO Ollama response time: 72.446 seconds
 2026-02-23 13:57:19,455 INFO Ollama response time: 72.446 seconds
+2026-02-23 14:21:29,148 INFO Models available: []
+2026-02-23 14:21:29,148 INFO Models available: []
+2026-02-23 14:21:29,148 INFO Models available: []
+2026-02-23 14:21:29,148 INFO Models available: []
+2026-02-23 14:21:29,148 INFO Models available: []
+2026-02-23 14:21:29,148 INFO Models available: []
+2026-02-23 14:21:29,148 INFO Models available: []
+2026-02-23 14:21:29,148 INFO Models available: []
+2026-02-23 14:21:29,148 INFO Models available: []
+2026-02-23 14:21:29,148 INFO Models available: []
+2026-02-23 14:21:29,148 INFO Models available: []
+2026-02-23 14:21:29,148 INFO Models available: []
+2026-02-23 14:21:29,148 INFO Models available: []
+2026-02-23 14:21:29,148 INFO Models available: []
+2026-02-23 14:21:29,148 INFO Models available: []
+2026-02-23 14:21:29,148 INFO Models available: []
+2026-02-23 14:21:43,141 INFO Latency test llama3.1:latest: None
+2026-02-23 14:21:43,141 INFO Latency test llama3.1:latest: None
+2026-02-23 14:21:43,141 INFO Latency test llama3.1:latest: None
+2026-02-23 14:21:43,141 INFO Latency test llama3.1:latest: None
+2026-02-23 14:21:43,141 INFO Latency test llama3.1:latest: None
+2026-02-23 14:21:43,141 INFO Latency test llama3.1:latest: None
+2026-02-23 14:21:43,141 INFO Latency test llama3.1:latest: None
+2026-02-23 14:21:43,141 INFO Latency test llama3.1:latest: None
+2026-02-23 14:21:43,141 INFO Latency test llama3.1:latest: None
+2026-02-23 14:21:43,141 INFO Latency test llama3.1:latest: None
+2026-02-23 14:21:43,141 INFO Latency test llama3.1:latest: None
+2026-02-23 14:21:43,141 INFO Latency test llama3.1:latest: None
+2026-02-23 14:21:43,141 INFO Latency test llama3.1:latest: None
+2026-02-23 14:21:43,141 INFO Latency test llama3.1:latest: None
+2026-02-23 14:21:43,141 INFO Latency test llama3.1:latest: None
+2026-02-23 14:21:43,141 INFO Latency test llama3.1:latest: None
+2026-02-23 14:21:45,249 INFO Latency test phi3:latest: None
+2026-02-23 14:21:45,249 INFO Latency test phi3:latest: None
+2026-02-23 14:21:45,249 INFO Latency test phi3:latest: None
+2026-02-23 14:21:45,249 INFO Latency test phi3:latest: None
+2026-02-23 14:21:45,249 INFO Latency test phi3:latest: None
+2026-02-23 14:21:45,249 INFO Latency test phi3:latest: None
+2026-02-23 14:21:45,249 INFO Latency test phi3:latest: None
+2026-02-23 14:21:45,249 INFO Latency test phi3:latest: None
+2026-02-23 14:21:45,249 INFO Latency test phi3:latest: None
+2026-02-23 14:21:45,249 INFO Latency test phi3:latest: None
+2026-02-23 14:21:45,249 INFO Latency test phi3:latest: None
+2026-02-23 14:21:45,249 INFO Latency test phi3:latest: None
+2026-02-23 14:21:45,249 INFO Latency test phi3:latest: None
+2026-02-23 14:21:45,249 INFO Latency test phi3:latest: None
+2026-02-23 14:21:45,249 INFO Latency test phi3:latest: None
+2026-02-23 14:21:45,249 INFO Latency test phi3:latest: None
+2026-02-23 14:21:47,336 INFO Latency test tinyllama:latest: None
+2026-02-23 14:21:47,336 INFO Latency test tinyllama:latest: None
+2026-02-23 14:21:47,336 INFO Latency test tinyllama:latest: None
+2026-02-23 14:21:47,336 INFO Latency test tinyllama:latest: None
+2026-02-23 14:21:47,336 INFO Latency test tinyllama:latest: None
+2026-02-23 14:21:47,336 INFO Latency test tinyllama:latest: None
+2026-02-23 14:21:47,336 INFO Latency test tinyllama:latest: None
+2026-02-23 14:21:47,336 INFO Latency test tinyllama:latest: None
+2026-02-23 14:21:47,336 INFO Latency test tinyllama:latest: None
+2026-02-23 14:21:47,336 INFO Latency test tinyllama:latest: None
+2026-02-23 14:21:47,336 INFO Latency test tinyllama:latest: None
+2026-02-23 14:21:47,336 INFO Latency test tinyllama:latest: None
+2026-02-23 14:21:47,336 INFO Latency test tinyllama:latest: None
+2026-02-23 14:21:47,336 INFO Latency test tinyllama:latest: None
+2026-02-23 14:21:47,336 INFO Latency test tinyllama:latest: None
+2026-02-23 14:21:47,336 INFO Latency test tinyllama:latest: None
+2026-02-23 14:22:24,385 INFO Models available: []
+2026-02-23 14:22:24,385 INFO Models available: []
+2026-02-23 14:22:24,385 INFO Models available: []
+2026-02-23 14:22:24,385 INFO Models available: []
+2026-02-23 14:22:24,385 INFO Models available: []
+2026-02-23 14:22:24,385 INFO Models available: []
+2026-02-23 14:22:24,385 INFO Models available: []
+2026-02-23 14:22:24,385 INFO Models available: []
+2026-02-23 14:22:24,385 INFO Models available: []
+2026-02-23 14:22:24,385 INFO Models available: []
+2026-02-23 14:22:24,385 INFO Models available: []
+2026-02-23 14:22:24,385 INFO Models available: []
+2026-02-23 14:22:24,385 INFO Models available: []
+2026-02-23 14:22:24,385 INFO Models available: []
+2026-02-23 14:22:24,385 INFO Models available: []
+2026-02-23 14:22:24,385 INFO Models available: []
+2026-02-23 14:22:24,385 INFO Models available: []
+2026-02-23 14:22:37,183 INFO Latency test llama3.1:latest: None
+2026-02-23 14:22:37,183 INFO Latency test llama3.1:latest: None
+2026-02-23 14:22:37,183 INFO Latency test llama3.1:latest: None
+2026-02-23 14:22:37,183 INFO Latency test llama3.1:latest: None
+2026-02-23 14:22:37,183 INFO Latency test llama3.1:latest: None
+2026-02-23 14:22:37,183 INFO Latency test llama3.1:latest: None
+2026-02-23 14:22:37,183 INFO Latency test llama3.1:latest: None
+2026-02-23 14:22:37,183 INFO Latency test llama3.1:latest: None
+2026-02-23 14:22:37,183 INFO Latency test llama3.1:latest: None
+2026-02-23 14:22:37,183 INFO Latency test llama3.1:latest: None
+2026-02-23 14:22:37,183 INFO Latency test llama3.1:latest: None
+2026-02-23 14:22:37,183 INFO Latency test llama3.1:latest: None
+2026-02-23 14:22:37,183 INFO Latency test llama3.1:latest: None
+2026-02-23 14:22:37,183 INFO Latency test llama3.1:latest: None
+2026-02-23 14:22:37,183 INFO Latency test llama3.1:latest: None
+2026-02-23 14:22:37,183 INFO Latency test llama3.1:latest: None
+2026-02-23 14:22:37,183 INFO Latency test llama3.1:latest: None
+2026-02-23 14:22:39,262 INFO Latency test phi3:latest: None
+2026-02-23 14:22:39,262 INFO Latency test phi3:latest: None
+2026-02-23 14:22:39,262 INFO Latency test phi3:latest: None
+2026-02-23 14:22:39,262 INFO Latency test phi3:latest: None
+2026-02-23 14:22:39,262 INFO Latency test phi3:latest: None
+2026-02-23 14:22:39,262 INFO Latency test phi3:latest: None
+2026-02-23 14:22:39,262 INFO Latency test phi3:latest: None
+2026-02-23 14:22:39,262 INFO Latency test phi3:latest: None
+2026-02-23 14:22:39,262 INFO Latency test phi3:latest: None
+2026-02-23 14:22:39,262 INFO Latency test phi3:latest: None
+2026-02-23 14:22:39,262 INFO Latency test phi3:latest: None
+2026-02-23 14:22:39,262 INFO Latency test phi3:latest: None
+2026-02-23 14:22:39,262 INFO Latency test phi3:latest: None
+2026-02-23 14:22:39,262 INFO Latency test phi3:latest: None
+2026-02-23 14:22:39,262 INFO Latency test phi3:latest: None
+2026-02-23 14:22:39,262 INFO Latency test phi3:latest: None
+2026-02-23 14:22:39,262 INFO Latency test phi3:latest: None
+2026-02-23 14:22:41,357 INFO Latency test tinyllama:latest: None
+2026-02-23 14:22:41,357 INFO Latency test tinyllama:latest: None
+2026-02-23 14:22:41,357 INFO Latency test tinyllama:latest: None
+2026-02-23 14:22:41,357 INFO Latency test tinyllama:latest: None
+2026-02-23 14:22:41,357 INFO Latency test tinyllama:latest: None
+2026-02-23 14:22:41,357 INFO Latency test tinyllama:latest: None
+2026-02-23 14:22:41,357 INFO Latency test tinyllama:latest: None
+2026-02-23 14:22:41,357 INFO Latency test tinyllama:latest: None
+2026-02-23 14:22:41,357 INFO Latency test tinyllama:latest: None
+2026-02-23 14:22:41,357 INFO Latency test tinyllama:latest: None
+2026-02-23 14:22:41,357 INFO Latency test tinyllama:latest: None
+2026-02-23 14:22:41,357 INFO Latency test tinyllama:latest: None
+2026-02-23 14:22:41,357 INFO Latency test tinyllama:latest: None
+2026-02-23 14:22:41,357 INFO Latency test tinyllama:latest: None
+2026-02-23 14:22:41,357 INFO Latency test tinyllama:latest: None
+2026-02-23 14:22:41,357 INFO Latency test tinyllama:latest: None
+2026-02-23 14:22:41,357 INFO Latency test tinyllama:latest: None
+2026-02-23 14:52:57,534 INFO Models available: []
+2026-02-23 14:52:57,534 INFO Models available: []
+2026-02-23 14:52:57,534 INFO Models available: []
+2026-02-23 14:52:57,534 INFO Models available: []
+2026-02-23 14:52:57,534 INFO Models available: []
+2026-02-23 14:52:57,534 INFO Models available: []
+2026-02-23 14:52:57,534 INFO Models available: []
+2026-02-23 14:52:57,534 INFO Models available: []
+2026-02-23 14:52:57,534 INFO Models available: []
+2026-02-23 14:52:57,534 INFO Models available: []
+2026-02-23 14:52:57,534 INFO Models available: []
+2026-02-23 14:52:57,534 INFO Models available: []
+2026-02-23 14:52:57,534 INFO Models available: []
+2026-02-23 14:52:57,534 INFO Models available: []
+2026-02-23 14:52:57,534 INFO Models available: []
+2026-02-23 14:52:57,534 INFO Models available: []
+2026-02-23 14:52:57,534 INFO Models available: []
+2026-02-23 14:52:57,534 INFO Models available: []
+2026-02-23 14:53:13,446 INFO Latency test llama3.1:latest: 15.910460699997202
+2026-02-23 14:53:13,446 INFO Latency test llama3.1:latest: 15.910460699997202
+2026-02-23 14:53:13,446 INFO Latency test llama3.1:latest: 15.910460699997202
+2026-02-23 14:53:13,446 INFO Latency test llama3.1:latest: 15.910460699997202
+2026-02-23 14:53:13,446 INFO Latency test llama3.1:latest: 15.910460699997202
+2026-02-23 14:53:13,446 INFO Latency test llama3.1:latest: 15.910460699997202
+2026-02-23 14:53:13,446 INFO Latency test llama3.1:latest: 15.910460699997202
+2026-02-23 14:53:13,446 INFO Latency test llama3.1:latest: 15.910460699997202
+2026-02-23 14:53:13,446 INFO Latency test llama3.1:latest: 15.910460699997202
+2026-02-23 14:53:13,446 INFO Latency test llama3.1:latest: 15.910460699997202
+2026-02-23 14:53:13,446 INFO Latency test llama3.1:latest: 15.910460699997202
+2026-02-23 14:53:13,446 INFO Latency test llama3.1:latest: 15.910460699997202
+2026-02-23 14:53:13,446 INFO Latency test llama3.1:latest: 15.910460699997202
+2026-02-23 14:53:13,446 INFO Latency test llama3.1:latest: 15.910460699997202
+2026-02-23 14:53:13,446 INFO Latency test llama3.1:latest: 15.910460699997202
+2026-02-23 14:53:13,446 INFO Latency test llama3.1:latest: 15.910460699997202
+2026-02-23 14:53:13,446 INFO Latency test llama3.1:latest: 15.910460699997202
+2026-02-23 14:53:13,446 INFO Latency test llama3.1:latest: 15.910460699997202
+2026-02-23 14:55:25,731 INFO Ollama response time: 65.895 seconds
+2026-02-23 14:55:25,731 INFO Ollama response time: 65.895 seconds
+2026-02-23 14:55:25,731 INFO Ollama response time: 65.895 seconds
+2026-02-23 14:55:25,731 INFO Ollama response time: 65.895 seconds
+2026-02-23 14:55:25,731 INFO Ollama response time: 65.895 seconds
+2026-02-23 14:55:25,731 INFO Ollama response time: 65.895 seconds
+2026-02-23 14:55:25,731 INFO Ollama response time: 65.895 seconds
+2026-02-23 14:55:25,731 INFO Ollama response time: 65.895 seconds
+2026-02-23 14:55:25,731 INFO Ollama response time: 65.895 seconds
+2026-02-23 14:55:25,731 INFO Ollama response time: 65.895 seconds
+2026-02-23 14:55:25,731 INFO Ollama response time: 65.895 seconds
+2026-02-23 14:55:25,731 INFO Ollama response time: 65.895 seconds
+2026-02-23 14:55:25,731 INFO Ollama response time: 65.895 seconds
+2026-02-23 14:55:25,731 INFO Ollama response time: 65.895 seconds
+2026-02-23 14:55:25,731 INFO Ollama response time: 65.895 seconds
+2026-02-23 14:55:25,731 INFO Ollama response time: 65.895 seconds
+2026-02-23 14:55:25,731 INFO Ollama response time: 65.895 seconds
+2026-02-23 14:55:25,731 INFO Ollama response time: 65.895 seconds
+2026-02-23 14:55:25,731 INFO Ollama response time: 65.895 seconds
+2026-02-23 15:03:45,358 INFO Models available: []
+2026-02-23 15:03:45,358 INFO Models available: []
+2026-02-23 15:03:45,358 INFO Models available: []
+2026-02-23 15:03:45,358 INFO Models available: []
+2026-02-23 15:03:45,358 INFO Models available: []
+2026-02-23 15:03:45,358 INFO Models available: []
+2026-02-23 15:03:45,358 INFO Models available: []
+2026-02-23 15:03:45,358 INFO Models available: []
+2026-02-23 15:03:45,358 INFO Models available: []
+2026-02-23 15:03:45,358 INFO Models available: []
+2026-02-23 15:03:45,358 INFO Models available: []
+2026-02-23 15:03:45,358 INFO Models available: []
+2026-02-23 15:03:45,358 INFO Models available: []
+2026-02-23 15:03:45,358 INFO Models available: []
+2026-02-23 15:03:45,358 INFO Models available: []
+2026-02-23 15:03:45,358 INFO Models available: []
+2026-02-23 15:03:45,358 INFO Models available: []
+2026-02-23 15:03:45,358 INFO Models available: []
+2026-02-23 15:03:45,358 INFO Models available: []
+2026-02-23 15:03:45,358 INFO Models available: []
+2026-02-23 15:03:45,358 INFO Models available: []
+2026-02-23 15:04:01,963 INFO Latency test llama3.1:latest: 16.603031599999667
+2026-02-23 15:04:01,963 INFO Latency test llama3.1:latest: 16.603031599999667
+2026-02-23 15:04:01,963 INFO Latency test llama3.1:latest: 16.603031599999667
+2026-02-23 15:04:01,963 INFO Latency test llama3.1:latest: 16.603031599999667
+2026-02-23 15:04:01,963 INFO Latency test llama3.1:latest: 16.603031599999667
+2026-02-23 15:04:01,963 INFO Latency test llama3.1:latest: 16.603031599999667
+2026-02-23 15:04:01,963 INFO Latency test llama3.1:latest: 16.603031599999667
+2026-02-23 15:04:01,963 INFO Latency test llama3.1:latest: 16.603031599999667
+2026-02-23 15:04:01,963 INFO Latency test llama3.1:latest: 16.603031599999667
+2026-02-23 15:04:01,963 INFO Latency test llama3.1:latest: 16.603031599999667
+2026-02-23 15:04:01,963 INFO Latency test llama3.1:latest: 16.603031599999667
+2026-02-23 15:04:01,963 INFO Latency test llama3.1:latest: 16.603031599999667
+2026-02-23 15:04:01,963 INFO Latency test llama3.1:latest: 16.603031599999667
+2026-02-23 15:04:01,963 INFO Latency test llama3.1:latest: 16.603031599999667
+2026-02-23 15:04:01,963 INFO Latency test llama3.1:latest: 16.603031599999667
+2026-02-23 15:04:01,963 INFO Latency test llama3.1:latest: 16.603031599999667
+2026-02-23 15:04:01,963 INFO Latency test llama3.1:latest: 16.603031599999667
+2026-02-23 15:04:01,963 INFO Latency test llama3.1:latest: 16.603031599999667
+2026-02-23 15:04:01,963 INFO Latency test llama3.1:latest: 16.603031599999667
+2026-02-23 15:04:01,963 INFO Latency test llama3.1:latest: 16.603031599999667
+2026-02-23 15:04:01,963 INFO Latency test llama3.1:latest: 16.603031599999667
