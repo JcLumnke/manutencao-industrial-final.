@@ -484,4 +484,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    main()      # Para rodar localmente, use: streamlit run app.py
