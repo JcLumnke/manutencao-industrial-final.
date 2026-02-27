@@ -367,3 +367,14 @@
 2026-02-23 15:04:01,963 INFO Latency test llama3.1:latest: 16.603031599999667
 2026-02-23 15:04:01,963 INFO Latency test llama3.1:latest: 16.603031599999667
 2026-02-23 15:04:01,963 INFO Latency test llama3.1:latest: 16.603031599999667
+2026-02-23 15:28:37,000 INFO Models available: []
+2026-02-23 15:28:54,942 INFO Latency test llama3.1:latest: 17.940998599999148
+2026-02-23 15:31:47,348 INFO Ollama response time: 77.690 seconds
+2026-02-23 15:31:47,348 INFO Ollama response time: 77.690 seconds
+2026-02-23 15:33:44,072 INFO Ollama response time: 59.810 seconds
+2026-02-23 15:33:44,072 INFO Ollama response time: 59.810 seconds
+2026-02-23 15:33:44,072 INFO Ollama response time: 59.810 seconds
+2026-02-23 15:36:01,847 INFO Ollama response time: 85.344 seconds
+2026-02-23 15:36:01,847 INFO Ollama response time: 85.344 seconds
+2026-02-23 15:36:01,847 INFO Ollama response time: 85.344 seconds
+2026-02-23 15:36:01,847 INFO Ollama response time: 85.344 seconds
